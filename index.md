@@ -13,7 +13,7 @@
 
 ---
 
-- [Heart Disease Prediction](https://github.com/carolinesmith527/datascience/tree/main/heart-disease-project)
+[Heart Disease Prediction](https://github.com/carolinesmith527/datascience/tree/main/heart-disease-project)
 
 ---
 
