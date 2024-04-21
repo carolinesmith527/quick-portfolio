@@ -8,7 +8,7 @@
 <img src="images/dogvisionresults.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Bulldozer Price Prediction](https://github.com/carolinesmith527/datascience/tree/main/bulldozer-price-prediction-project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
