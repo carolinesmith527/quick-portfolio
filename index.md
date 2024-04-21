@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dog Vision](https://github.com/carolinesmith527/datascience/tree/main/dog-vision)
+<img src="images/dogvisionresults.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
