@@ -1,6 +1,3 @@
-## Resume
-
-[Resume](https://github.com/carolinesmith527/datascience/blob/main/resume/Caroline%20Smith%20Data%20Resume%2004.09.2024.pdf)
 
 ## Portfolio
 
