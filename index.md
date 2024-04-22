@@ -18,7 +18,7 @@
 ---
 
 [Heart Disease Prediction](https://github.com/carolinesmith527/datascience/tree/main/heart-disease-project)
-
+<img src="images/heartdiseaseprediction.png?raw=true"/>
 ---
 
 
