@@ -18,7 +18,7 @@
 <img src="images/heartdiseaseprediction.png?raw=true"/>
 ---
 
-[DHFR Drug Activation Classification]
+[DHFR Drug Activation Classification](https://github.com/carolinesmith527/datascience/tree/main/dhfr)
 <img src="images/dhfr feature importance.png?raw=true"/>
 
 
