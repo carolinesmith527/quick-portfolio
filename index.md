@@ -18,7 +18,8 @@
 <img src="images/heartdiseaseprediction.png?raw=true"/>
 ---
 
-
+[DHFR Drug Activation Classification]
+<img src="images/dhfr feature importance.png?raw=true"/>
 
 
 ---
