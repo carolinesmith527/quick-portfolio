@@ -19,7 +19,7 @@
 
 ---
 
-[DHFR Drug Activation Classification](https://github.com/carolinesmith527/datascience/tree/main/dhfr)
+[DHFR Drug Activation Classification using R](https://github.com/carolinesmith527/datascience/tree/main/dhfr)
 <img src="images/dhfr feature importance.png?raw=true"/>
 
 
